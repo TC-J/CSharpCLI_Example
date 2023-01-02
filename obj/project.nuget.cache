@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7QaQyw8OlCJl/kFGOxim9V4qp16z8d6GLEUZUcfbEO/ydbqkbcqbmekX6yrvc4VkqrLbpSvlFtewVIj3f6CaQQ==",
+  "success": true,
+  "projectFilePath": "/home/tcj/Desktop/CSharpDemos/csharpcli/csharpcli.csproj",
+  "expectedPackageFiles": [
+    "/home/tcj/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "/home/tcj/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/home/tcj/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.12/microsoft.netcore.app.host.linux-x64.6.0.12.nupkg.sha512",
+    "/home/tcj/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
