@@ -17,5 +17,10 @@ $ dotnet add package System.CommandLine --prerelease
 Build Application. The name comes from the main namespace.
 ```
 $ dotnet build
-# ./bin/debug/net6.0/<appname>
+# ./bin/debug/net6.0/<appname> <-- executable
+```
+
+Run Application via CLI
+```
+$ dotnet run -- <cli> # eg --file Program.cs
 ```
